@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Meme Generator [24 June 2022]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a part of Scrimba's Frontend Developer Career Path.
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Features](#features)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Screenshot
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![alt text](./gif_meme-generator.gif)
 
-### `npm test`
+### Links
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Live Site URL: [Meme Generator](https://react-meme-generator-liart.vercel.app/)
 
-### `npm run build`
+### Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- shuffle through various meme images
+- add top and bottom text of your choice
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## My process
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I started from setting the project, creating he logo and writing CSS. AFter that, I worked on adding functionality and making sure everything works and is responsive and accessible.
 
-### `npm run eject`
+### Built with
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- CSS
+- React
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### What I learned
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+How to organize my code, fetch data from API and take care of side effects. I've also learned about how to create basic forms and manage their state.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Continued development
 
-## Learn More
+This project is in its final form and for now there are no plans for adding any other functionality.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Useful resources
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Scrimba](https://www.scrimba.com)
 
-### Code Splitting
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Website - [Ha Anna](https://haanna.com)
 
-### Analyzing the Bundle Size
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you, Scrimba #scrimba-pets channel for the inspiration, as well as other Scrimba's students for their reviews and opinions.
